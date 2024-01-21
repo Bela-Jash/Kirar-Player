@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  background-color: #7077A1;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #2D3250;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #F6B17A;
+
+}
+
+h2 {
+  color: #2D3250;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #F6B17A;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+
+.note {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', ursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #2D3250;
+  text-shadow: 3px 0 #F6B17A;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.scale_btn {
+  outline: none;
+  border: 5px solid #404B69;
+  font-family: 'Arvo', ursive;
+  font-size: 1.25rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #2D3250;
+  border-radius: 15px;
+  display: inline-block;
+  text-align: center;
+  background-color: white;
+}
+
